@@ -1,0 +1,18 @@
+body {
+	background-color: grey;
+	margin-left: 30px;
+}
+li {
+	color: green;
+	font-family: "ArchyEDT-Bold", sans-serif;
+	list-style-type: none;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.main {
+	color: orange;
+}
+img {
+	margin-top: 20px;
+	margin-left: 30px;
+}
